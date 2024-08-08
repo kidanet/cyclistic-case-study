@@ -9,4 +9,5 @@ This case study investigates the behavior of casual and annual members of Cyclis
 Through data cleaning, exploratory analysis, and data visualization, this case study uncovers valuable insights into customer behavior and preferences. The findings contribute to a data-driven approach to optimize Cyclistic's marketing efforts and drive business growth.
 
 
-Sources and related content
+Sources and related content:
+https://rpubs.com/matt_johnson0304/1059960
